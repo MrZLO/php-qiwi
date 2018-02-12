@@ -4,6 +4,8 @@
  * @package Qiwi
  * @author atnartur (Атнагулов Артур) <i@atnartur.ru>
  * @copyright 2014 atnartur (Атнагулов Артур)
+ 
+ * @todo: CURLOPT_SSL_VERIFYPEER почему отключено? изза протокола SSL, или упрощена схема обмена? прочитать про сертификат для АПИ киви
  */
 
 
